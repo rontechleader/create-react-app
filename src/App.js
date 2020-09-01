@@ -20,6 +20,8 @@ function App() {
       </h2>
       <p>
         Example by Ron Breger
+        <hr></hr>
+        Deployed to Vercel via GitHub.
       </p>
       <br />
       <h2>The date/time in UTC:</h2>
